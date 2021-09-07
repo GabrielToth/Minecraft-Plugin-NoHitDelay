@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NoHitDelay">
+    <output-path>$PROJECT_DIR$/Plugin</output-path>
+    <root id="archive" name="NoHitDelay.jar">
+      <element id="module-output" name="NoHitDelay" />
+    </root>
+  </artifact>
+</component>

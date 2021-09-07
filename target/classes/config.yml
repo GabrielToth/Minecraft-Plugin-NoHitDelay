@@ -1,0 +1,3 @@
+#in ticks (1 second has 20 ticks)
+hit-delay: 7
+join-msg: true

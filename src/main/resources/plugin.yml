@@ -1,0 +1,9 @@
+name: NoHitDelay
+version: '${project.version}'
+main: br.toth.nohitdelay.nohitdelay.NoHitDelay
+api-version: 1.17
+authors: [ toth ]
+description: This mod remove all hits delay
+commands:
+  noHitDelay:
+    description: Main command of NoHitDelay
